@@ -1,6 +1,6 @@
 # NovoLoader - A Remote Access Trojan (RAT)
 
-**Note: The original repository for NovoLoader is currently private, as it is actively being developed. Updates and additional resources, including a subreddit and Telegram channel, will be made available soon.**
+**Note: The original repository for NovoLoader is currently private, as it is actively being developed. Updates and additional resources will be made available soon.**
 
 **Disclaimer: This project is created for educational purposes only. It is not encouraged or endorsed for use in any malicious activities. The creator is not responsible for any misuse of this software. Any unlawful use may result in criminal charges.**
 
@@ -58,3 +58,6 @@ Version 0.9.1 is the second beta release, addressing and resolving several issue
 * Port modification is now possible within the settings.
 * A sending issue has been resolved, allowing communication with computers that aren't your own.
 * The "Test Connection" option is now available in the settings.
+
+  # Social:
+  [NovoLoader Reddit](https://www.reddit.com/r/novoloader)
