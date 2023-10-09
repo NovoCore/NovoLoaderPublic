@@ -59,5 +59,10 @@ Version 0.9.1 is the second beta release, addressing and resolving several issue
 * A sending issue has been resolved, allowing communication with computers that aren't your own.
 * The "Test Connection" option is now available in the settings.
 
-  # Social:
-  [NovoLoader Reddit](https://www.reddit.com/r/novoloader)
+## Version 0.9.1.1
+Version 0.9.1.1 added the following:
+* Task Manager
+* BSOD Action (Administrator Only)
+
+# Social:
+[NovoLoader Reddit](https://www.reddit.com/r/novoloader)
