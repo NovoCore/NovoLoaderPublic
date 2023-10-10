@@ -66,3 +66,4 @@ Version 0.9.1.1 added the following:
 
 # Social:
 [NovoLoader Reddit](https://www.reddit.com/r/novoloader)
+[NovoLoader Gitbook](https://zribedev.gitbook.io/novoloader/)
