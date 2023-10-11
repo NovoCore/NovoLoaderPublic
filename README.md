@@ -64,6 +64,10 @@ Version 0.9.1.1 added the following:
 * Task Manager
 * BSOD Action (Administrator Only)
 
+## Version 0.9.1.2
+Version 0.9.1.2 added the following:
+* Remote Desktop (View Only)
+* 
 # Social:
 [NovoLoader Reddit](https://www.reddit.com/r/novoloader)
 [NovoLoader Gitbook](https://zribedev.gitbook.io/novoloader/)
