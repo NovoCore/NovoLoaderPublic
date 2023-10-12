@@ -68,6 +68,7 @@ Version 0.9.1.1 added the following:
 Version 0.9.1.2 added the following:
 * Remote Desktop (View Only)
 * UDP Flood
+* VM Checker
 
 # Social:
 [NovoLoader Reddit](https://www.reddit.com/r/novoloader)
