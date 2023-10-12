@@ -70,6 +70,7 @@ Version 0.9.1.2 added the following:
 * UDP Flood
 * VM Checker
 * Show/Hide Console Logs (For software debugging)
+* UAC Bypass
 
 # Social:
 [NovoLoader Reddit](https://www.reddit.com/r/novoloader)
