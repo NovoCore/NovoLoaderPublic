@@ -69,6 +69,7 @@ Version 0.9.1.2 added the following:
 * Remote Desktop (View Only)
 * UDP Flood
 * VM Checker
+* Show/Hide Console Logs (For software debugging)
 
 # Social:
 [NovoLoader Reddit](https://www.reddit.com/r/novoloader)
