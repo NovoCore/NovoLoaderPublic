@@ -71,6 +71,7 @@ Version 0.9.1.2 added the following:
 * VM Checker
 * Show/Hide Console Logs (For software debugging)
 * UAC Bypass
+* Window Checker
 
 # Social:
 [NovoLoader Reddit](https://www.reddit.com/r/novoloader)
