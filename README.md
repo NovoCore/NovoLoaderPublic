@@ -72,6 +72,12 @@ Version 0.9.1.2 added the following:
 * Show/Hide Console Logs (For software debugging)
 * UAC Bypass
 * Window Checker
+* Antivirus Disabler (Uninstaller)
+
+### Antivirus Disabler - Additional Information
+The Antivirus Disabler includes two functions:
+1. **Windows Defender Exclusions**
+2. **Malwarebytes Uninstaller**
 
 # Social:
 [NovoLoader Reddit](https://www.reddit.com/r/novoloader)
